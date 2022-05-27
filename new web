@@ -1,0 +1,123 @@
+<!doctype html>
+<html>
+<head>
+<link rel="stylesheet" href="css/main.css">
+<meta charset="utf-8">
+<title>PROJE HTML</title>
+	<style>
+		
+		*{font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"}
+	h1,h3 {color: #FBFBFB; margin: 0}
+		.sidehd{background-color:#4FDBE7; color: aliceblue; font-weight: bold}
+		h2.sidehd{color: #5A006E}
+		td a{text-decoration: none}
+		a:link{color:#1CB445}
+		a:hover{background-color: purple}
+		</style>
+
+</head>
+<body bgcolor="#343434">
+<table  bgcolor=#FFFFFF cellspacing="10" width="780" align="center">
+	<tr >
+	  <td valign="top" colspan="3" height="215" background="images/newwww  phto.jpg">
+		
+	<h1>&nbsp; &nbsp; flowers site</h1>
+		<h3>&nbsp; &nbsp; best way to make happy</h3>
+		
+		</td>
+	</tr>
+	
+	<tr>
+	<td  width="170" valign="top">
+		<table bgcolor="#cfdeff" width="180"  cellspacing="0" cellpadding="10" >
+		<tr class="sidehd">
+			<td >
+				categories:
+		  </td>
+			
+		</tr>
+			
+			<tr>
+			<td bgcolor="#cfdeff">
+				<a href="#"></a>
+								<a href="#">wordmap</a><br>
+
+								<a href="#">iran flower</a><br>
+
+								<a href="#">mars flower</a><br>
+
+								<a href="#">erath mars</a><br>
+
+								<a href="#">yiummy</a><br>
+								<a href="#">selfing</a><br>
+
+								<a href="#">from</a><br>
+
+								<a href="#">minous</a><br>
+
+
+			</td><br>
+			</tr>
+			
+			<tr class="sidehd">
+			<td>
+				archives
+			</td>
+			</tr>
+			
+			<tr>
+			<td bgcolor="#cfdeff">
+				<a href="#">wordmap</a><br>
+
+								<a href="#">2020feb</a><br>
+
+								<a href="#">2019march</a><br>
+
+								<a href="#">e2000april</a><br>
+
+								<a href="#">2017june</a><br>
+								<a href="#">2090september</a><br>
+
+								<a href="#">f2015december</a><br>
+
+								<a href="#">2009junary</a><br>
+			</td>
+			</tr>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		</table>
+		</td>
+	<td>
+		<h2 class="sidehd">sum about flowers</h2></font>
+		
+		<p>A flower, sometimes known as a bloom or blossom, is the reproductive structure found in flowering plants (plants of the division Angiospermae). The biological function of a flower is to facilitate reproduction, usually by providing a mechanism for the union of sperm with eggs. Flowers may facilitate outcrossing (fusion of sperm and eggs from different individuals inn the same plant. Cross-pollination is the transfer of pollen from the anther of one flower to the stigma of another flower on a different individual of the same </p>
+		<img src="../photo_2022-05-24_02-11-47.jpg" style="border: 2px solid #FF4B4E">
+		<p>
+		Some flowers produce diaspores without fertilization (parthenocarpy). Flowers contain sporangia and are the site where gametophytes develop. Many flows, flowers have long been admired and used by humans to bring beauty to the environment, and also as objects of romance, ritual, esotericism, witchcraft, religion, medicine, and as a source of food. 
+		</p>
+		<font color="#5d82e8"><h2>title link for flowers</h2></font>
+		<p>
+		The androecium, or stamens, is the whorl of pollen producing male parts. Stamens consist typically of an anther, made up of four pollen sacs arranged in two thecae, connected to a filament, or stalk. The anther contains microsporocytes which become pollen, the male gametophyte, after undergoing meiosis. Although they exhibit the widest variation among floral organs, the androecium is usually confined just to one whorl and to two whorls only in rare cases. Stamens range in number, size, shape, orientation, and in their point of connection to the flower.[9][10] 
+Gynoecium
+The gynoecium, or the carpels, is the female part of the flower found on t</p>
+		
+		</td>
+		
+	
+	<tr>
+	<td colspan="2" align="center"><hr size="1" color="#C0C0C0" width="80%" align="center">ALL RIGHT RESERVED &copy; 2022 by ayda jokar
+		</td>
+	</tr>
+
+	</table>
+
+</body>
+</html>
